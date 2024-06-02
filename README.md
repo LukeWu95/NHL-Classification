@@ -40,4 +40,5 @@ This project involves analysis of player data using machine learning techniques 
 **Feature Importance**:
 - After training, the model provides insights into which features are most important for predicting the player clusters, allowing for a better understanding of the factors that influence player grouping.
 
-
+**Future plans**:
+- I wish this project can be used to evaluate players in real life. 
